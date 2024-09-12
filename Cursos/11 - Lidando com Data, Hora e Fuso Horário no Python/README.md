@@ -1,4 +1,4 @@
-# 📖 Estruturas Condicionais e de Repetição em Python
+# 📖 Lidando com Data, Hora e Fuso Horário no Python
 
 ``Todos os códigos feitos nesse curso estão na pasta codes! Aqui nesse arquivo segue as anotações realizadas no curso.``
 
