@@ -7,11 +7,16 @@
 Repositório criado para compartilhar códigos e anotações dos cursos realizados nesse Bootcamp da NTT Data na plataforma da [DIO](https://www.dio.me/).
 
 
-## 💻 Tecnologia usada nesse repositório:
+## 💻 Tecnologias usadas nesse repositório:
 
 - **Linguagem de Programação**:
    <div>
-      <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+   </div>
+   
+- **POWER BI**:
+   <div>
+      <img alt="Python" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
    </div>
 
 
